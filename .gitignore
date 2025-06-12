@@ -1,0 +1,8 @@
+kaggle.json
+fer2013/
+RAF_DB/
+*.pyc
+__pycache__/
+data/
+*.pth
+checkpoints/
